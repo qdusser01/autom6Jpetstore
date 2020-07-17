@@ -1,0 +1,49 @@
+2020-07-17 09:18:28 [INFO ] PrixPanierTest:35 - Accès au magasin
+2020-07-17 09:18:28 [INFO ] PrixPanierTest:40 - Accès à la page de login
+2020-07-17 09:18:29 [INFO ] PrixPanierTest:49 - Accès à la page d'accueil
+2020-07-17 09:18:51 [INFO ] PrixPanierTest:35 - Accès au magasin
+2020-07-17 09:18:51 [INFO ] PrixPanierTest:40 - Accès à la page de login
+2020-07-17 09:18:51 [INFO ] PrixPanierTest:49 - Accès à la page d'accueil
+2020-07-17 09:25:58 [INFO ] PrixPanierTest:37 - Accès au magasin
+2020-07-17 09:25:58 [INFO ] PrixPanierTest:42 - Accès à la page de login
+2020-07-17 09:25:58 [INFO ] PrixPanierTest:51 - Accès à la page d'accueil
+2020-07-17 09:28:51 [INFO ] PrixPanierTest:37 - Accès au magasin
+2020-07-17 09:28:51 [INFO ] PrixPanierTest:42 - Accès à la page de login
+2020-07-17 09:28:51 [INFO ] PrixPanierTest:51 - Accès à la page d'accueil
+2020-07-17 09:28:51 [INFO ] PrixPanierTest:65 - FI-SW-01
+2020-07-17 09:28:51 [INFO ] PrixPanierTest:65 - FI-SW-02
+2020-07-17 09:28:51 [INFO ] PrixPanierTest:65 - FI-FW-01
+2020-07-17 09:28:51 [INFO ] PrixPanierTest:65 - FI-FW-02
+2020-07-17 09:57:31 [INFO ] PrixPanierTest:37 - Accès au magasin
+2020-07-17 09:57:31 [INFO ] PrixPanierTest:42 - Accès à la page de login
+2020-07-17 09:57:31 [INFO ] PrixPanierTest:51 - Accès à la page d'accueil
+2020-07-17 10:00:12 [INFO ] PrixPanierTest:37 - Accès au magasin
+2020-07-17 10:00:12 [INFO ] PrixPanierTest:42 - Accès à la page de login
+2020-07-17 10:00:13 [INFO ] PrixPanierTest:51 - Accès à la page d'accueil
+2020-07-17 10:04:22 [INFO ] PrixPanierTest:37 - Accès au magasin
+2020-07-17 10:04:22 [INFO ] PrixPanierTest:42 - Accès à la page de login
+2020-07-17 10:04:22 [INFO ] PrixPanierTest:51 - Accès à la page d'accueil
+2020-07-17 10:04:23 [ERROR] PrixPanierTest:85 - Le prix total n'est pas egal au prix unitaire X 2
+2020-07-17 10:05:06 [INFO ] PrixPanierTest:37 - Accès au magasin
+2020-07-17 10:05:06 [INFO ] PrixPanierTest:42 - Accès à la page de login
+2020-07-17 10:05:06 [INFO ] PrixPanierTest:51 - Accès à la page d'accueil
+2020-07-17 10:05:07 [ERROR] PrixPanierTest:85 - Le prix total n'est pas egal au prix unitaire X 2
+2020-07-17 10:10:29 [INFO ] PrixPanierTest:37 - Accès au magasin
+2020-07-17 10:10:29 [INFO ] PrixPanierTest:42 - Accès à la page de login
+2020-07-17 10:10:29 [INFO ] PrixPanierTest:51 - Accès à la page d'accueil
+2020-07-17 10:11:11 [INFO ] PrixPanierTest:37 - Accès au magasin
+2020-07-17 10:11:11 [INFO ] PrixPanierTest:42 - Accès à la page de login
+2020-07-17 10:11:11 [INFO ] PrixPanierTest:51 - Accès à la page d'accueil
+2020-07-17 10:11:11 [ERROR] PrixPanierTest:77 - Le panier n'est pas affiché
+2020-07-17 10:14:00 [INFO ] PrixPanierTest:37 - Accès au magasin
+2020-07-17 10:14:00 [INFO ] PrixPanierTest:42 - Accès à la page de login
+2020-07-17 10:14:00 [INFO ] PrixPanierTest:51 - Accès à la page d'accueil
+2020-07-17 10:14:01 [ERROR] PrixPanierTest:81 - Ce n'est pas la bonne page affiché
+2020-07-17 10:15:43 [INFO ] PrixPanierTest:37 - Accès au magasin
+2020-07-17 10:15:43 [INFO ] PrixPanierTest:42 - Accès à la page de login
+2020-07-17 10:15:43 [INFO ] PrixPanierTest:51 - Accès à la page d'accueil
+2020-07-17 10:15:44 [ERROR] PrixPanierTest:77 - ça marche pas :(
+2020-07-17 10:28:37 [INFO ] PrixPanierTest:37 - Accès au magasin
+2020-07-17 10:28:37 [INFO ] PrixPanierTest:42 - Accès à la page de login
+2020-07-17 10:28:37 [INFO ] PrixPanierTest:49 - Accès à la page d'accueil
+2020-07-17 10:28:38 [ERROR] PrixPanierTest:105 - mon panier n'est pas affiché

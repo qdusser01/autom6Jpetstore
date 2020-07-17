@@ -67,9 +67,11 @@ public class PrixPanierTest {
 		driver.findElement(By.xpath("//font[contains(., 'FI-SW-02')]")).click();
 		driver.findElement(By.xpath("//a[contains(@href, 'addItemToCart')]")).click();
 		
-		WebElement titre_panier=driver.findElement(By.xpath("//*[text() = 'Shopping Cart']"));
+		WebElement titre_panier=driver.findElement(By.xpath("//*[text() = 'Shopping Catt']"));
+		
 		verifElementAffiche(titre_panier, "mon panier n'est pas affiché");
 
+		//SALUUUUT
 
 		WebElement champ_quantite= driver.findElement(By.xpath("//input[@type='text']"));
 		ecrireChampTexte(champ_quantite, "2");

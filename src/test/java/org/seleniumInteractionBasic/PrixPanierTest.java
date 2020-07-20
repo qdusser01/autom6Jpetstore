@@ -67,7 +67,7 @@ public class PrixPanierTest {
 		driver.findElement(By.xpath("//font[contains(., 'FI-SW-02')]")).click();
 		driver.findElement(By.xpath("//a[contains(@href, 'addItemToCart')]")).click();
 		
-		WebElement titre_panier=driver.findElement(By.xpath("//*[text() = 'Shopping Catt']"));
+		WebElement titre_panier=driver.findElement(By.xpath("//*[text() = 'Shopping Cart']"));
 		
 		verifElementAffiche(titre_panier, "mon panier n'est pas affiché");
 
@@ -83,7 +83,7 @@ public class PrixPanierTest {
 		float totaltotal = Float.parseFloat(Total);
 		
 		try {
-			assertTrue("Le prix total n'est pas egal au prix unitaire X 2",totaltotal == prixunitaire*3);
+			assertTrue("Le prix total n'est pas egal au prix unitaire X 2",totaltotal == prixunitaire*2);
 		}
 		catch(AssertionError e) {
 			logger.error("Le prix total n'est pas egal au prix unitaire X 2");

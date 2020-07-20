@@ -56,7 +56,7 @@ public class TestPanierPageObjet {
 		
 		page_panier.editerQuantite(jdd_qte);
 		
-		page_panier.isPrixTotalConformeQuantite(Integer.parseInt(jdd_qte));
+		assertTrue(page_panier.isPrixTotalConformeQuantite(Integer.parseInt(jdd_qte)));
 		
 
 	}

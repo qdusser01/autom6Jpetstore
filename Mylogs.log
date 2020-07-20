@@ -98,3 +98,7 @@
 2020-07-20 15:17:04 [INFO ] PageAccueil:18 - [[ChromeDriver: chrome on WINDOWS (72593a26b5c7cb958c8d856f53839a0e)] -> xpath: //font] présent
 2020-07-20 15:26:02 [INFO ] PageLogin:20 - Utilisation méthode seConnecter() avec les parametres j2ee/j2ee
 2020-07-20 15:26:03 [INFO ] PageAccueil:18 - [[ChromeDriver: chrome on WINDOWS (eb07dfc029d9a7a64c3f50e1f8ff80cf)] -> xpath: //font] présent
+2020-07-20 16:46:08 [INFO ] PageLogin:20 - Utilisation méthode seConnecter() avec les parametres j2ee/j2ee
+2020-07-20 16:46:08 [INFO ] PageAccueil:18 - [[ChromeDriver: chrome on WINDOWS (9300fc575e29e9cae97000cb09c7dc00)] -> xpath: //font] présent
+2020-07-20 16:51:06 [INFO ] PageLogin:20 - Utilisation méthode seConnecter() avec les parametres j2ee/j2ee
+2020-07-20 16:51:06 [INFO ] PageAccueil:18 - [[ChromeDriver: chrome on WINDOWS (994354e8919b8ded99329c8edf927d25)] -> xpath: //font] présent

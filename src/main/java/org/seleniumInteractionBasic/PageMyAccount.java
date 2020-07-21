@@ -60,8 +60,6 @@ public class PageMyAccount extends AbstractPageBandeau {
 		if (liste_checkbox.get(i).isSelected()) {
 			liste_checkbox.get(i).click();
 		}
-		else {
-		}
 	    return !(liste_checkbox.get(i).isSelected());
 	}
 	}

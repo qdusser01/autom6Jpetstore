@@ -7,8 +7,11 @@ import org.openqa.selenium.support.PageFactory;
 
 public class AbstractPageBandeau {
 
-	@FindBy (name= "search")
+	@FindBy (name= "keyword")
 	WebElement champ_search;
+	
+	@FindBy (xpath="//input[contains(@src,'search.gif')]")
+	WebElement bouton_search;
 	
 	@FindBy (name="img_signin")
 	WebElement bouton_signin;
@@ -33,5 +36,11 @@ public class AbstractPageBandeau {
 		lien_myaccount.click();
 		return PageFactory.initElements(driver, PageMyAccount.class);
 		
+	}
+	
+	public PageResultatRecherche rechercher(WebDriver d, String mot_clef) {
+		SocleTechnique.renseignerChamps(champ_search, mot_clef);
+		bouton_search.click();
+		return PageFactory.initElements(d, PageResultatRecherche.class);
 	}
 }

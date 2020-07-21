@@ -16,6 +16,9 @@ public class AbstractPageBandeau {
 	@FindBy (name="img_signout")
 	WebElement bouton_signout;
 	
+	@FindBy (name="img_myaccount")
+	WebElement lien_myaccount;
+	
 	public PageLogin clicSignIn(WebDriver driver) {
 		bouton_signin.click();
 		return PageFactory.initElements(driver, PageLogin.class);
@@ -24,5 +27,11 @@ public class AbstractPageBandeau {
 	public PageAccueil clicSignOut(WebDriver driver) {
 		bouton_signout.click();
 		return PageFactory.initElements(driver, PageAccueil.class);
+	}
+	
+	public PageMyAccount clicMyAccount(WebDriver driver) {
+		lien_myaccount.click();
+		return PageFactory.initElements(driver, PageMyAccount.class);
+		
 	}
 }
